@@ -1,0 +1,17 @@
+.img-custom {
+  width: 100%;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+
+.advertisement-item:hover {
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 20rem !important;
+  height: 26rem !important;
+  transition: ease-in 0.2s;
+}
+
+.advertisement-item {
+  transition: ease-in 0.2s;
+}
